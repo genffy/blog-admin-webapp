@@ -1,0 +1,9 @@
+# OS func folder
+.DS_Store
+
+node_modules
+
+yarn-error.*
+npm-error.*
+
+.eslintcache
